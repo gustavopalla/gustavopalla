@@ -1,7 +1,9 @@
 ## Olá eu sou o Gustavo Palla!
 
+- Estou iniciando agora nesse mundo gigantesco e amplo da tecnologia. Estou aberto a novas oportunidades para crescimento e desenvolvimento pessoal e profissional.
+
 - 🔭 Trabalho com Implantação de Software BPMN & Linguagem PostgreSQL.
-- 🌱 Estou atualmente cursando Sistemas de Informação e estudando Python a parte.
+- 🌱 Estou atualmente cursando Sistemas de Informação e estudando Python.
 - 📫 Entrar em contato via E-mail: impalla404@gmail.com
 
 <div style="display: inline_block"><br>
