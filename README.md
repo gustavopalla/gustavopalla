@@ -2,7 +2,7 @@
 
 - Estou iniciando agora nesse mundo gigantesco e amplo da tecnologia. Estou aberto a novas oportunidades para crescimento e desenvolvimento pessoal e profissional.
 
-- 🔭 Sou Consultor de Implantação Júnior. Trabalho com o SoftExpert Suite.
+- 🔭 Sou Consultor de Implantação Júnior na TAB.
 - 🌱 Estou atualmente cursando Sistemas de Informação na Universidade Paulista (UNIP).
 - 📫 Entrar em contato via E-mail: impalla404@gmail.com
  
