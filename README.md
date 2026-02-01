@@ -3,7 +3,8 @@
 - Estou iniciando agora nesse mundo gigantesco e amplo da tecnologia. Estou aberto a novas oportunidades para crescimento e desenvolvimento pessoal e profissional.
 
 - 🔭 Sou Consultor de Implantação Júnior na TAB.
-- 🌱 Estou atualmente cursando Sistemas de Informação na Universidade Paulista (UNIP).
+- 🌱 Cursando Sistemas de Informação na Universidade Paulista (UNIP).
+- Atualmente estou estudando Flutter, NodeJS e TypeScript.
 - 📫 Entrar em contato via E-mail: impalla404@gmail.com
  
 <div> 
