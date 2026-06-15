@@ -3,20 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3B82F6&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+meu+nome+%C3%A9+Gustavo+Palla;Estudo+Sistemas+de+Informa%C3%A7%C3%A3o+na+UNIP;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">
-  <p>Estou iniciando agora nesse mundo gigantesco e amplo da tecnologia. Estou aberto a novas oportunidades para crescimento e desenvolvimento pessoal e profissional.</p>
-  <br>
   <p>🔭 Sou Consultor de Implantação Júnior na TAB.</p>
   <p>🌱 Cursando Sistemas de Informação na Universidade Paulista (UNIP).</p>
   <br>
-</div>
-
-<div align="center">
-  <a href="mailto:impalla404@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/gustavopalla/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
-  </a> 
 </div>
 
 <br>
@@ -27,6 +16,17 @@
 </div>
 
 [![Gustavo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavopalla&theme=react&line=3B82F6&hide_title=true&area=true&hide_border=true&v=1)](https://github.readme-activity-graph-tan.vercel.app/)
+
+<br>
+
+<div align="center">
+  <a href="mailto:impalla404@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/gustavopalla/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
+  </a> 
+</div>
 
 <br>
  
